@@ -1,0 +1,12 @@
+# ignore config file
+config.py
+
+.DS_Store
+
+.env
+
+.vscode
+
+config.json
+
+__pycache__
